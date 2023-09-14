@@ -27,8 +27,31 @@
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
-
+<h3>My projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b> 💻 Projects</b></td>
+    </tr>
+  <thead/>
+  <tbody>
+    <tr>
+      <td><a href=""><b>PJE Process Consultation Automator (Federal) (Web Scraping)</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Working...</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Working...</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Working...</b></a></td>
+    </tr>
+    <tr>
+      <td><a href=""><b>Working...</b></a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -39,6 +62,7 @@
 
 <h3>Where to find me</h3>
 <p>
-  <a href="https://github.com/Nik0lax" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabrielnikolax/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Nik0lax" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=flat-square&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabrielnikolax/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="gnicolasdev@hotmail.com" target="_blank"><img alt="Outlook" src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>
 </p>
