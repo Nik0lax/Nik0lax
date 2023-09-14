@@ -36,7 +36,7 @@
   <thead/>
   <tbody>
     <tr>
-      <td><a href=""><b>PJE Process Consultation Automator (Federal) (Web Scraping)</b></a></td>
+      <td><a href=""><b>PJE Process Consultation Automator (Federal) (Python Web Scraping)</b></a></td>
     </tr>
     <tr>
       <td><a href=""><b>Working...</b></a></td>
