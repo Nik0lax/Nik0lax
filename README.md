@@ -5,9 +5,9 @@
 
 <h3>Languages I know</h3>
 <p>
-  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white" />
-  <img alt="Shell" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Powershell" src="https://img.shields.io/badge/Powershell-2CA5E0?style=flat-square&logo=powershell&logoColor=white" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-239120?style=flat-square&logo=css3&logoColor=white" />
 </p>
@@ -22,10 +22,23 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" /> 
+  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white" />
+  <img alt="Zabbix" src="https://img.shields.io/badge/Zabbix-FF0000?style=flat-square&logo=zotero&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/Grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="ChatGPT" src="https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="" src="" />
-  <img alt="" src="" />
-  <img alt="" src="" />
+</p>
+
+
+
+
+
+
+
+
+
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/Nik0lax" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/gabrielnikolax/" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
