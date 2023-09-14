@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Flask and IA**
 
-- 👨‍💻 All of my projects are available at [[Working... 🔨]]([Working... 🔨])
+- 👨‍💻 All of my projects are available at: [Working... 🔨]
 
 - 📫 How to reach me: **gnicolasdev@hotmail.com or https://www.linkedin.com/in/gabrielnikolax/**
 
