@@ -1,5 +1,5 @@
 <h1 align="center">Hi!👋 Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Nicolas, Software Analyst from <img src="https://github.com/Nik0lax/Nik0lax/assets/136096951/61bbb6b0-fdaf-4a3e-a76e-1ee4e01f07ac" width="13"/> <b>Belém, Brazil</b> and a Python lover <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Stockholm, Sweden</b>. </p>
+<p>Welcome to my page! </br> I'm Nicolas, Software Analyst from <img src="https://github.com/Nik0lax/Nik0lax/assets/136096951/61bbb6b0-fdaf-4a3e-a76e-1ee4e01f07ac" width="13"/> <b>Belém, Brazil</b> and a <img src="https://github.com/Nik0lax/Nik0lax/assets/136096951/dc866bf5-bd20-4e46-a4d3-78b606343f75" width="13"/> Python lover </p>
 
 - 🔭 I’m currently working on **on something cool 😜**
 
