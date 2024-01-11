@@ -36,13 +36,13 @@
   <thead/>
   <tbody>
     <tr>
+      <td><a href="https://github.com/Nik0lax/nik0finance"><b>Nik0 Finance (Software de Gestão Financeira Pessoal | Desenvolvido em Flask)</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nik0lax/rpg_via_terminal"><b>RPG via Terminal (Python)</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Nik0lax/PJE_process_consultation_automator_webScraping/tree/main"><b>Automatizador de Consulta de Processos PJE TR1 Federal (Python Web Scraping)</b></a></td>
-    </tr>
-    <tr>
-      <td><a href=""><b>Em andamento...</b></a></td>
     </tr>
     <tr>
       <td><a href=""><b>Em andamento...</b></a></td>
