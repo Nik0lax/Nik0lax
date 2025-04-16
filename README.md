@@ -46,7 +46,7 @@
       <td><a href="https://github.com/Nik0lax/PJE_process_consultation_automator_webScraping/tree/main"><b>Automatizador de Consulta de Processos PJE TR1 Federal (Python Web Scraping)</b></a></td>
     </tr>
     <tr>
-      <td><a href=""><b>Em andamento...</b></a></td>
+      <td><a href="https://github.com/Nik0lax/gtr-gestao-ticket-refeicao/tree/main"><b>GTR - Gestão de Ticket Refeição | Desenvolvido em Flask</b></a></td>
     </tr>
   </tbody>
 </table>
