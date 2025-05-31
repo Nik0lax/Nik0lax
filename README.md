@@ -48,6 +48,9 @@
     <tr>
       <td><a href="https://github.com/Nik0lax/gtr-gestao-ticket-refeicao/tree/main"><b>GTR - Gestão de Ticket Refeição | Desenvolvido em Flask</b></a></td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/Nik0lax/intranet"><b>Intranet Corporativa | Desenvolvido em Flask</b></a></td>
+    </tr>
   </tbody>
 </table>
 
