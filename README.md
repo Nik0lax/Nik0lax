@@ -40,7 +40,7 @@
       <td><a href="https://github.com/Nik0lax/gtr-gestao-ticket-refeicao/tree/main"><b>GTR - Gestão de Ticket Refeição | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
-      <td><a href=https://github.com/Nik0lax/keeper"><b>Keeper - Gestão de Consumíveis de TI | Desenvolvido em Flask</b></a></td>
+      <td><a href="https://github.com/Nik0lax/keeper"><b>Keeper - Gestão de Consumíveis de TI | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/Nik0lax/intranet"><b>Intranet Corporativa | Desenvolvido em Flask</b></a></td>
