@@ -43,6 +43,9 @@
       <td><a href="https://github.com/Nik0lax/keeper"><b>Keeper - Gestão de Consumíveis de TI | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Nik0lax/pdfx_compressor"><b>PDFX Compressor | Desenvolvido em Python</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nik0lax/intranet"><b>Intranet Corporativa | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
