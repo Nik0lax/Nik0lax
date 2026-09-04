@@ -43,6 +43,9 @@
       <td><a href="https://github.com/Nik0lax/gtr-gestao-ticket-refeicao/tree/main"><b>GTR - Gestão de Ticket Refeição | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
+      <td><a href="https://github.com/Nik0lax/siec"><b>SIEC - Sistema de Inspeção da Engenharia Civil | Desenvolvido em Flask</b></a></td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/Nik0lax/keeper"><b>Keeper - Gestão de Consumíveis de TI | Desenvolvido em Flask</b></a></td>
     </tr>
     <tr>
