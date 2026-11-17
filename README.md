@@ -37,6 +37,9 @@
   <thead/>
   <tbody>
     <tr>
+        <td><a href="https://github.com/Nik0lax/pingodock"><b>Pingo Dock | Dock do MacOS para Windows</b></a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/Nik0lax/glpi-painel-tv"><b>Painel-TV | Plugin em PHP para o GLPI</b></a></td>
     </tr>
     <tr>
